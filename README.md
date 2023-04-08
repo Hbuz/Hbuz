@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+    
+<a href="https://www.linkedin.com/in/marco-basilico10/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Marco Basilico | LinkedIn" width="21px"/></a>
+
+![](https://komarev.com/ghpvc/?username=Hbuz)
+
 <!--
 **Hbuz/Hbuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
