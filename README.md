@@ -23,11 +23,11 @@ My expertise lies in:
 ---
 
 ### 🚀 Featured Project
-< #### [✈️ Airport Routing & Fare Engine](https://github.com/Hbuz/klm-backend-assignment)
+<!-- #### [✈️ Airport Routing & Fare Engine](https://github.com/Hbuz/klm-backend-assignment)
 A Spring Boot service that validates airport routing paths and computes fare breakdowns for passenger itineraries.  
 Tech: Java, Spring Boot, REST APIs, JUnit, Testcontainers, Maven.  
-_Originally developed as part of a senior developer application at KLM._ >
-TBA soon
+_Originally developed as part of a senior developer application at KLM._ -->
+TBA soon!!
 ---
 
 ### 📬 Get in Touch
