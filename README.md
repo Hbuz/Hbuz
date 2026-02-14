@@ -34,8 +34,6 @@ TBA soon!!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-basilico10/)  
 📫 Email: m.basilico10@gmail.com
 
----
-
 <details>
   <summary></summary>
   <br>
