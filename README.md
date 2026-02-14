@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Marco Basilico — Back-End Developer
 
-I'm a **Senior Java Developer** with over 7 years of experience in backend development, API maintenance, and enterprise systems integration. I currently work at **Capgemini** as a Consultant, contributing to the financial sector at **International Card Services (ICS)**.
+I'm a **Senior Java Developer** with over 8 years of experience in backend development, API maintenance, and enterprise systems integration. I currently work at **KLM** as a Senior Software Engineer ✈️.
 
 My expertise lies in:
 - Building and maintaining **robust Java/Spring Boot APIs**
@@ -36,4 +36,10 @@ TBA soon!!
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Hbuz&color=blue)
+<details>
+  <summary></summary>
+  <br>
+  
+  ![](https://komarev.com/ghpvc/?username=Hbuz&color=blue&label=)
+  
+</details>
