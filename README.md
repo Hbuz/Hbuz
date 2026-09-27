@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Marco Basilico — Back-End Developer
 
-I'm a **Senior Java Developer** with over 8 years of experience in backend development, API maintenance, and enterprise systems integration. I currently work at **KLM** as a Senior Software Engineer ✈️.
+I'm a **Senior Java Developer** with over 9 years of experience in backend development, API maintenance, and enterprise systems integration. I currently work at **KLM** as a Senior Software Engineer ✈️.
 
 My expertise lies in:
 - Building and maintaining **robust Java/Spring Boot APIs**
@@ -23,11 +23,7 @@ My expertise lies in:
 ---
 
 ### 🚀 Featured Project
-<!-- #### [✈️ Airport Routing & Fare Engine](https://github.com/Hbuz/klm-backend-assignment)
-A Spring Boot service that validates airport routing paths and computes fare breakdowns for passenger itineraries.  
-Tech: Java, Spring Boot, REST APIs, JUnit, Testcontainers, Maven.  
-_Originally developed as part of a senior developer application at KLM._ -->
-TBA soon!!
+#### [✈️ Airport Routing & Fare Engine](https://github.com/Hbuz/aafe-fare-engine)
 ---
 
 ### 📬 Get in Touch
