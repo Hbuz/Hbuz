@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Marco Basilico — Back-End Developer
 
-I'm a **Senior Java Developer** with over 9 years of experience in backend development, API maintenance, and enterprise systems integration. I currently work at **KLM** as a Senior Software Engineer ✈️.
+I'm a **Senior Java Developer** with over 9 years of experience in backend development, API maintenance, and enterprise systems integration.
 
 My expertise lies in:
 - Building and maintaining **robust Java/Spring Boot APIs**
