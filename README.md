@@ -23,12 +23,9 @@ My expertise lies in:
 ---
 
 ### 🚀 Featured Project
-**...soon!!**
-<!--
-#### [✈️ Airport Routing & Fare Engine](https://github.com/Hbuz/aafe-fare-engine)
+#### [✈️ Airport Routing & Fare Engine](https://github.com/Hbuz/aafe-airways)
 - A Spring Boot service that validates airport routing paths and computes fare breakdowns for passenger itineraries.  
 **Tech:** Java, Spring Boot, REST APIs, JUnit, Testcontainers, Maven.
--->
 ---
 
 ### 📬 Get in Touch
